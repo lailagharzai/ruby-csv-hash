@@ -1,0 +1,1022 @@
+{
+  "Communications Hub": {
+    "106C": {
+      "433100AC": {
+        "firmware_version": "124074DA",
+        "smets_chts_version": "CHTS V1.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": "137ED5BC81A21F6D2187BC380381AEA7705BF65D3E4DAEA28EFD44113079D5E9"
+      },
+      "433100AD": {
+        "firmware_version": "1260A11E",
+        "smets_chts_version": "CHTS V1.0",
+        "gbcs_version": "GBCS Version 1.1 ",
+        "image_hash": "1FA0E033D36E707AF2FD32B5E28FBB17ADC0695BFF320B38F1282E54A815261C"
+      },
+      "433100AE": {
+        "firmware_version": "1260A11E",
+        "smets_chts_version": "CHTS V1.0",
+        "gbcs_version": "GBCS Version 1.1",
+        "image_hash": "1FA0E033D36E707AF2FD32B5E28FBB17ADC0695BFF320B38F1282E54A815261C"
+      },
+      "433200CD": {
+        "firmware_version": "20C0C760",
+        "smets_chts_version": "CHTS V1.1",
+        "gbcs_version": "GBCS Version 2.0",
+        "image_hash": "DEDDD6384631F49CC68C93510C16665F5E118676F4061FC7496FA24F436AE9FE"
+      },
+      "433400DB": {
+        "firmware_version": "20D0D3F6",
+        "smets_chts_version": "CHTS V1.1",
+        "gbcs_version": "GBCS Version 2.1",
+        "image_hash": "24F28F612984FC782DF1765BE4BA39920A6B2955253EFDF499A92BBCFD42D2AD"
+      }
+    },
+    "1086": {
+      "54311F52": {
+        "firmware_version": "000A6900",
+        "smets_chts_version": "CHTS V1.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": null
+      },
+      "54322052": {
+        "firmware_version": "000A6900",
+        "smets_chts_version": "CHTS V1.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": null
+      },
+      "54332152": {
+        "firmware_version": "000A6900",
+        "smets_chts_version": "CHTS V1.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": null
+      },
+      "54342152": {
+        "firmware_version": "000A7200",
+        "smets_chts_version": "CHTS V1.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": "2846A641002B67E3676EA04616CBC55A9EF79911C15A11DC4886C6042A87DD59"
+      },
+      "55310400": {
+        "firmware_version": "0C150000",
+        "smets_chts_version": "CHTS V1.1",
+        "gbcs_version": "GBCS Version 2.0",
+        "image_hash": "B0D3B2E101A00075774C6CFFC9440DAE1B07C1791ED5B532F643F020F5B23112"
+      },
+      "55320400": {
+        "firmware_version": "0C150000",
+        "smets_chts_version": "CHTS V1.1",
+        "gbcs_version": "GBCS Version 2.0",
+        "image_hash": "B0D3B2E101A00075774C6CFFC9440DAE1B07C1791ED5B532F643F020F5B23112"
+      },
+      "55340400": {
+        "firmware_version": "0C150000",
+        "smets_chts_version": "CHTS V1.1",
+        "gbcs_version": "GBCS Version 2.0",
+        "image_hash": "B0D3B2E101A00075774C6CFFC9440DAE1B07C1791ED5B532F643F020F5B23112"
+      },
+      "54312252": {
+        "firmware_version": "0C1D0000",
+        "smets_chts_version": "CHTS V1.1",
+        "gbcs_version": "GBCS Version 2.0",
+        "image_hash": "8CEE29B13EC97F6326A7482FFE24BAD9A0B79587B66C81A22702A58629B853DE"
+      },
+      "54322352": {
+        "firmware_version": "0C1D0000",
+        "smets_chts_version": "CHTS V1.1",
+        "gbcs_version": "GBCS Version 2.0",
+        "image_hash": "8CEE29B13EC97F6326A7482FFE24BAD9A0B79587B66C81A22702A58629B853DE"
+      },
+      "54342452": {
+        "firmware_version": "0C1D0000",
+        "smets_chts_version": "CHTS V1.1",
+        "gbcs_version": "GBCS Version 2.0",
+        "image_hash": "8CEE29B13EC97F6326A7482FFE24BAD9A0B79587B66C81A22702A58629B853DE"
+      },
+      "55310460": {
+        "firmware_version": "0D030000",
+        "smets_chts_version": "CHTS V1.3",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "DF4CBCF551C0FAA84614FD51E7BC46CAE858BC49E18B64B0E02E1FD4F86F5664"
+      },
+      "55320460": {
+        "firmware_version": "0D030000",
+        "smets_chts_version": "CHTS V1.3",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "DF4CBCF551C0FAA84614FD51E7BC46CAE858BC49E18B64B0E02E1FD4F86F5664"
+      },
+      "55340460": {
+        "firmware_version": "0D030000",
+        "smets_chts_version": "CHTS V1.3",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "DF4CBCF551C0FAA84614FD51E7BC46CAE858BC49E18B64B0E02E1FD4F86F5664"
+      },
+      "54312260": {
+        "firmware_version": "0C240000",
+        "smets_chts_version": "CHTS V1.1",
+        "gbcs_version": "GBCS Version 2.1",
+        "image_hash": "401D84FEF2AC2379AEBBE023FC5A80AB7706C30679D720FEB6AA39BF9E0C56AE"
+      },
+      "54322360": {
+        "firmware_version": "0C240000",
+        "smets_chts_version": "CHTS V1.1",
+        "gbcs_version": "GBCS Version 2.1",
+        "image_hash": "401D84FEF2AC2379AEBBE023FC5A80AB7706C30679D720FEB6AA39BF9E0C56AE"
+      },
+      "54342460": {
+        "firmware_version": "0C240000",
+        "smets_chts_version": "CHTS V1.1",
+        "gbcs_version": "GBCS Version 2.1",
+        "image_hash": "401D84FEF2AC2379AEBBE023FC5A80AB7706C30679D720FEB6AA39BF9E0C56AE"
+      }
+    },
+    "5401": {
+      "57310100": {
+        "firmware_version": "010B0000",
+        "smets_chts_version": "CHTS V1.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": null
+      }
+    },
+    "1072": {
+      "57310100": {
+        "firmware_version": "02100000",
+        "smets_chts_version": "CHTS V1.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": "998371634F0CB19872F6B0C449A613BB9E37D48CD1E2A88E6BF2A859DC8960CB"
+      },
+      "57320101": {
+        "firmware_version": "01070002",
+        "smets_chts_version": "CHTS V1.1",
+        "gbcs_version": "GBCS Version 2.0",
+        "image_hash": "FBBB3ED5B6E3572A987BEE62D091DB66686843F5F41E1928E82DDA72DD06B67B"
+      },
+      "57310101": {
+        "firmware_version": "02130003",
+        "smets_chts_version": "CHTS V1.0",
+        "gbcs_version": "GBCS Version 1.1",
+        "image_hash": "E6C2C011E4351C85E607F1B5288F43A926E60F27B27447C8407E99CDDF32D268"
+      },
+      "57310102": {
+        "firmware_version": "030A0001",
+        "smets_chts_version": "CHTS V1.1",
+        "gbcs_version": "GBCS Version 2.1",
+        "image_hash": "58C7A9F9708D4CF3780B395003A49283FF5FE63C9EABD0E5A341B5B05730287F"
+      }
+    },
+    "1028": {
+      "04100105": {
+        "firmware_version": "03335337",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      }
+    },
+    "1057": {
+      "01100110": {
+        "firmware_version": "2EDBE509",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": "2CA4A444F94883C702A1F874B08814FDC20509AF2DE217C36282D5E04C86830E"
+      },
+      "01100007": {
+        "firmware_version": "2EDBF707",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": "D30FF86EF17E1062765A3CE25A76A38C4D482087AB91714174235E9EA7A55694"
+      }
+    },
+    "1031": {
+      "C7A10201": {
+        "firmware_version": "C7A10001",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      },
+      "C7A10101": {
+        "firmware_version": "C7A10001",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      },
+      "C8A10301": {
+        "firmware_version": "C8A10002",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": "EF17C8D9BEBB88763D2BD5E472F43532A731234D9D191F85BF20E9B56AD1F35C"
+      }
+    },
+    "118F": {
+      "11011011": {
+        "firmware_version": "0003030D",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": "4351D40B04781E8277799527475621E815099DBC68ECE969238EC078A370D1D8"
+      }
+    },
+    "10C7": {
+      "00030200": {
+        "firmware_version": "22080000",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      },
+      "00020100": {
+        "firmware_version": "210E0000",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      }
+    }
+  },
+  "Single Element Electricity Metering Equipment": {
+    "1063": {
+      "00030201": {
+        "firmware_version": "24010701",
+        "smets_chts_version": "SMETS V2.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": "7124FA147A6850B3205D1E4F9CA6B3E820194A7F3B0EB0373BF47EA7F8877C21"
+      },
+      "00050202": {
+        "firmware_version": "38010100",
+        "smets_chts_version": "SMETS V2.0 ",
+        "gbcs_version": "GBCS Version 1.1 ",
+        "image_hash": "58DB7E3503AE9CEB1B21FB763845B5E18F7E94972BDE33E18E1B487C8DD03E42"
+      },
+      "00030202": {
+        "firmware_version": "24031000",
+        "smets_chts_version": "SMETS V2.0",
+        "gbcs_version": "GBCS Version 1.1",
+        "image_hash": "0EF0E750723E20B50725C2922014F13EA09E76D7D03C7F081F37FCF00246BBA9"
+      },
+      "00050203": {
+        "firmware_version": "38031002",
+        "smets_chts_version": "SMETS V2.0",
+        "gbcs_version": "GBCS Version 1.1",
+        "image_hash": "057DDDDB68432990B0A7625100B2054EC501C0066DB52E556D6D6E48846D3748"
+      },
+      "00020101": {
+        "firmware_version": "23070100",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      },
+      "00040101": {
+        "firmware_version": "30000706",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": "6C164EC7EDD12BBB8EE6505CF351342421F331268D031BCC7E1F1E62FCCD3BB2"
+      },
+      "00050204": {
+        "firmware_version": "38040202",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "149F2BD9986FDEB47EBFB54692050D534E065A2771C7C3BCDF0007CD4BFB3391"
+      },
+      "00060204": {
+        "firmware_version": "38040202",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "149F2BD9986FDEB47EBFB54692050D534E065A2771C7C3BCDF0007CD4BFB3391"
+      }
+    },
+    "106C": {
+      "10E101FF": {
+        "firmware_version": "00075100",
+        "smets_chts_version": "SMETS V2.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": "866499856881E4A3D9BA4624AC615604BB48E475524ADAFC23E53DB814EC9C08"
+      },
+      "10E1A100": {
+        "firmware_version": "01001400",
+        "smets_chts_version": "SMETS V2.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": "8D363CA631F8068C1FAB89FBE5C8826AB149F67D156126F68415DB98A3FB12C9"
+      },
+      "10E2A100": {
+        "firmware_version": "0105A800",
+        "smets_chts_version": "SMETS V2.0",
+        "gbcs_version": "GBCS Version 1.1",
+        "image_hash": "84DC8B9EE3FB749DE9E6102B7765BAED9D35BC8318A04376B3FCD6D64FDD6486"
+      },
+      "12E2A100": {
+        "firmware_version": "0105AC00",
+        "smets_chts_version": "SMETS V2.0",
+        "gbcs_version": "GBCS Version 1.1",
+        "image_hash": "CC81B0E2D4434F5993671573590D41B9CDFD814E3951F363FE81E8D1E8BFF514"
+      }
+    },
+    "1028": {
+      "D7000103": {
+        "firmware_version": "0434041B",
+        "smets_chts_version": "SMETS V2.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": "B0D5FFA27496C65B4DD4518C262F9C783BDBDA3C826066EC2302732ABE2CC7F6"
+      },
+      "56780201": {
+        "firmware_version": "03465317",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      },
+      "D7000105": {
+        "firmware_version": "049B045C",
+        "smets_chts_version": "SMETS V2.0",
+        "gbcs_version": "GBCS Version 1.1",
+        "image_hash": "1EF9DE24236A173B11270DB74C44CDC1FBF382885470E13310633C69E522089D"
+      }
+    },
+    "1057": {
+      "00000101": {
+        "firmware_version": "0121DD7C",
+        "smets_chts_version": "SMETS V2.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": "05659B8CBD5EBBFD6EDC472C4BA0A8EB2EDD12698E748882C3650117AB1CDD47"
+      },
+      "00000201": {
+        "firmware_version": "0234F168",
+        "smets_chts_version": "SMETS V2.0",
+        "gbcs_version": "GBCS Version 1.1",
+        "image_hash": "D879CF9D1D0F4F83B76CFF36B2139CADE28001A5D50E1EF060FBBD0CDD8E36A2"
+      },
+      "03000101": {
+        "firmware_version": "0401D8C9",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": "EC9E8111584FDAE88912DE2CDD9C01E646000C217BCF14ABF4955B8799B0E284"
+      }
+    },
+    "118F": {
+      "00000000": {
+        "firmware_version": "00050400",
+        "smets_chts_version": "SMETS V2.0 ",
+        "gbcs_version": "GBCS Version 1.1  ",
+        "image_hash": "95FFD8FFCC8580432B32C37CF8FFF29593DD4FE0E710E63E756925A46CDC1D18"
+      },
+      "00000100": {
+        "firmware_version": "00050400",
+        "smets_chts_version": "SMETS V2.0 ",
+        "gbcs_version": "GBCS Version 1.1  ",
+        "image_hash": "03EB303C160C5534D6B3FCFE48F19395BFD698DC5ECCD15C8B0EE902E3752B7E"
+      },
+      "00000107": {
+        "firmware_version": "00060408",
+        "smets_chts_version": "SMETS V3.1",
+        "gbcs_version": "GBCS Version 2.1",
+        "image_hash": "F935FA4568649C95DCCAAACA034198595B923EA60C0B187831A882204575992D"
+      },
+      "00000207": {
+        "firmware_version": "00060408",
+        "smets_chts_version": "SMETS V3.1",
+        "gbcs_version": "GBCS Version 2.1",
+        "image_hash": "F935FA4568649C95DCCAAACA034198595B923EA60C0B187831A882204575992D"
+      },
+      "00000201": {
+        "firmware_version": "00070204",
+        "smets_chts_version": "SMETS V3.1",
+        "gbcs_version": "GBCS Version 2.1",
+        "image_hash": "04D5FA3AFDC51F2CF277B750EC2687C38A4417EC943B925C3B64923157EA4507"
+      },
+      "00000301": {
+        "firmware_version": "00070204",
+        "smets_chts_version": "SMETS V3.1",
+        "gbcs_version": "GBCS Version 2.1",
+        "image_hash": "04D5FA3AFDC51F2CF277B750EC2687C38A4417EC943B925C3B64923157EA4507"
+      },
+      "00000401": {
+        "firmware_version": "00070204",
+        "smets_chts_version": "SMETS V3.1",
+        "gbcs_version": "GBCS Version 2.1",
+        "image_hash": "04D5FA3AFDC51F2CF277B750EC2687C38A4417EC943B925C3B64923157EA4507"
+      },
+      "00020200": {
+        "firmware_version": "00030306",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": "B61C5722EFB73CAF489F4A4513A30CB544A5CE35ABC0EB75A4E6336CB3FCB9A3"
+      },
+      "00000302": {
+        "firmware_version": "00070804",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "804E08CF0A9A07CA710397ED0FD4E18E6200D3604F6FF2A745DAA91BE79BD92A"
+      },
+      "00000402": {
+        "firmware_version": "00070804",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "804E08CF0A9A07CA710397ED0FD4E18E6200D3604F6FF2A745DAA91BE79BD92A"
+      }
+    },
+    "1125": {
+      "31324130": {
+        "firmware_version": "12099416",
+        "smets_chts_version": "SMETS V2.0",
+        "gbcs_version": "GBCS Version 1.1",
+        "image_hash": "D95187D0364B252641DFF95A8D0779A567F7E0FFE9380E08337277FDE9239958"
+      },
+      "31324131": {
+        "firmware_version": "12099416",
+        "smets_chts_version": "SMETS V2.0",
+        "gbcs_version": "GBCS Version 1.1",
+        "image_hash": "D95187D0364B252641DFF95A8D0779A567F7E0FFE9380E08337277FDE9239958"
+      },
+      "31334330": {
+        "firmware_version": "12099416",
+        "smets_chts_version": "SMETS V2.0",
+        "gbcs_version": "GBCS Version 1.1",
+        "image_hash": "D95187D0364B252641DFF95A8D0779A567F7E0FFE9380E08337277FDE9239958"
+      },
+      "31384230": {
+        "firmware_version": "16161620",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "F5F0B83A98AE9913210A07A732E4A1F17AA89E8577F40B06698DD99B516DE607"
+      },
+      "31394430": {
+        "firmware_version": "16161620",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "F5F0B83A98AE9913210A07A732E4A1F17AA89E8577F40B06698DD99B516DE607"
+      }
+    },
+    "1031": {
+      "A0A1013D": {
+        "firmware_version": "04000000",
+        "smets_chts_version": "SMETS V3.1",
+        "gbcs_version": "GBCS Version 2.1",
+        "image_hash": "1DBCBF23083B013F24D2A2E340D4EDC88D704E8DFA8DD4CC60CC076B6D02C3D6"
+      },
+      "C0A10102": {
+        "firmware_version": "C0A10001",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      },
+      "C0A10101": {
+        "firmware_version": "C0A10001",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      },
+      "C1A10201": {
+        "firmware_version": "C1A10001",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      },
+      "C2A10301": {
+        "firmware_version": "C2A10001",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      },
+      "C3A10401": {
+        "firmware_version": "C2A10001",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      }
+    }
+  },
+  "Gas Smart Meter": {
+    "106C": {
+      "10F101FF": {
+        "firmware_version": "00075100",
+        "smets_chts_version": "SMETS V2.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": "008450C87F6A6250C9272C7CE3D8250DF323CA6379398B932004173DC9FCFFB5"
+      },
+      "10F1A100": {
+        "firmware_version": "01001400",
+        "smets_chts_version": "SMETS V2.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": "56A4B4C03A4924FD70822EA6792C97C281B0BB850716876D50CFE6837E4100FA"
+      },
+      "10F2A100": {
+        "firmware_version": "01089700",
+        "smets_chts_version": "SMETS V2.0",
+        "gbcs_version": "GBCS Version 1.1",
+        "image_hash": "4D78A08DD5148ABF7987B13018F2DF459A3B08C027A58F66C3570595939336C0"
+      },
+      "10F3A100": {
+        "firmware_version": "0389B800",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "56AB84E35793CA9F9D889950F01B0F1D8F6ABA726647B76B8840F07235A8DF37"
+      }
+    },
+    "1057": {
+      "05750000": {
+        "firmware_version": "00020203",
+        "smets_chts_version": "SMETS V2.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": "66479EB37880C9F848AF83A2B7EBE7A48BE060083C63ACFF9789ADD9D1067545"
+      },
+      "05750101": {
+        "firmware_version": "00020205",
+        "smets_chts_version": "SMETS V2.0 ",
+        "gbcs_version": "GBCS Version 1.1  ",
+        "image_hash": "D22C64E371D09EC9BDD345C16C2E007DECB36FB1D0BDFCAB4416DF6A540FAC86"
+      },
+      "05730000": {
+        "firmware_version": "00000446",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": "F16809038A5B00827AC75EFAF869C55DD5CDA63E1BEC747AD542BD9B1702FA58"
+      },
+      "05750102": {
+        "firmware_version": "00020211",
+        "smets_chts_version": "SMETS V2.0",
+        "gbcs_version": "GBCS Version 1.1",
+        "image_hash": "FB88DAE9BAFC921CEDF77ECE4BC31CE7206A8BFEED0305A0E37A8F262CFA82BF"
+      },
+      "05740101": {
+        "firmware_version": "00005089",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": "D5BB66E56FC6EAEB2207F3E43073D8CA3D5423D51031868C97A4EFBF37198D74"
+      }
+    },
+    "1015": {
+      "09B33700": {
+        "firmware_version": "09030A07",
+        "smets_chts_version": "SMETS V2.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": "DD63A0A62CD3BCF46AE47EE9323CF2B353F79721219DB3008BAF59916A7EFD01"
+      },
+      "09B33200": {
+        "firmware_version": "12030A09",
+        "smets_chts_version": "SMETS V3.1",
+        "gbcs_version": "GBCS Version 2.1",
+        "image_hash": "35CE324E302424E0AF8581DB8720634F119A194CD9CA87203A25D7F6E96EAD40"
+      },
+      "09B31F00": {
+        "firmware_version": "2403062A",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": "0874800CD9C2DE268B0CAE2F4BBC42A6B13D099DA39E853905F4760D22E2B3DE"
+      }
+    },
+    "1063": {
+      "47720101": {
+        "firmware_version": "03030245",
+        "smets_chts_version": "SMETS V2.0 ",
+        "gbcs_version": "GBCS Version 1.1 ",
+        "image_hash": "8FFFAEAB6C04F5F11177CD7B1DB000033331C0EAC2C3C5C0BDC0EB575CF345B8"
+      },
+      "47820101": {
+        "firmware_version": "15015131",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "9B7D515D0F0176FE1AAC211B1862E5E726502D4B65B081BEEDF903BBDFABBE65"
+      },
+      "47710001": {
+        "firmware_version": "03020168",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": "248B5DB0834D6D0E674DDC59859F0A6D3FBC9BF04ACCE15618020703A7755D63"
+      },
+      "37710001": {
+        "firmware_version": "03000161",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": "B4A9A71DA7ACB79437B319F3B8E25E6B9AFF68BE55B2BB1B6EC7E7A7D0EAB99C"
+      },
+      "47710101": {
+        "firmware_version": "03030161",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": "1B4D09EE7AB8ED53E82E2EEA5D7FF39C2383AC258D9F152F5851A2B349082442"
+      },
+      "47720201": {
+        "firmware_version": "03033254",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "3642135C1BF7C1C8DF939AA254B5E1625E332247FBE45B69FD281A7C78FD9177"
+      }
+    },
+    "1192": {
+      "11111111": {
+        "firmware_version": "019200B5",
+        "smets_chts_version": "SMETS V2.0",
+        "gbcs_version": "GBCS Version 1.1",
+        "image_hash": "88B0AFE11C8F04B979B9F71B7B16D040F6E78C8EB4B08306BB9762081AF03760"
+      },
+      "11111211": {
+        "firmware_version": "019200B5",
+        "smets_chts_version": "SMETS V2.0",
+        "gbcs_version": "GBCS Version 1.1",
+        "image_hash": "88B0AFE11C8F04B979B9F71B7B16D040F6E78C8EB4B08306BB9762081AF03760"
+      },
+      "11121111": {
+        "firmware_version": "01D01002",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "6B3575B72EFBD9067D31FB0EBC9AD5DD330CD02A959832611E2F6930CFF2643D"
+      },
+      "11121211": {
+        "firmware_version": "01D01002",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "6B3575B72EFBD9067D31FB0EBC9AD5DD330CD02A959832611E2F6930CFF2643D"
+      }
+    },
+    "1028": {
+      "20000000": {
+        "firmware_version": "029210D6",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      },
+      "C901A500": {
+        "firmware_version": "0109AC00",
+        "smets_chts_version": "SMETS V2.0",
+        "gbcs_version": "GBCS Version 1.1",
+        "image_hash": "61525EE62B678CB44537D3CE2A14AB9E84FA5375760F363C9DD7DBA0218FBAF6"
+      },
+      "C902A500": {
+        "firmware_version": "0389B820",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "1A6D08ACF674737EF1362D1E792F9C081CFE72F8488BFA3FCCF29866C8D0BDB8"
+      }
+    },
+    "1031": {
+      "B0A10144": {
+        "firmware_version": "04000000",
+        "smets_chts_version": "SMETS V3.1",
+        "gbcs_version": "GBCS Version 2.1",
+        "image_hash": "ACE183DB64283428D57A978DECE03643700ACB4191996DDBB4A9F92FC3497031"
+      },
+      "C4A10501": {
+        "firmware_version": "C4A10001",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      },
+      "C5A10601": {
+        "firmware_version": "C5A10001",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      },
+      "B0A20172": {
+        "firmware_version": "08000000",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "F045274241906D5B70F7C18A0D8F29ABD9F80D80CE9609AD9147718BC10524AA"
+      }
+    },
+    "123E": {
+      "00000300": {
+        "firmware_version": "01080605",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "32447FF7D7C42A09675D96F4C147FFEA27BDE2319AC9C97CBCBE07D85B0CF3D9"
+      },
+      "00000900": {
+        "firmware_version": "04080605",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "9E3988AB52C3AC27C756F4B4C81FFEF9DDFC173EEB7C0C423B5C02D1D8B8B0EF"
+      },
+      "00010600": {
+        "firmware_version": "01060605",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "56E7ADF70152FB1A90ABE3080FCB99A2DF557AEED70C812728E2FDA6876D5F4F"
+      }
+    },
+    "1264": {
+      "00000212": {
+        "firmware_version": "F906AEEC",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": null
+      },
+      "00006612": {
+        "firmware_version": "22122E28",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": null
+      }
+    }
+  },
+  "Pre-Payment Interface Device": {
+    "10E0": {
+      "00050100": {
+        "firmware_version": "00070200",
+        "smets_chts_version": "SMETS V2.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": null
+      },
+      "00051200": {
+        "firmware_version": "00070500",
+        "smets_chts_version": "SMETS V2.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": null
+      },
+      "00080800": {
+        "firmware_version": "00010501",
+        "smets_chts_version": "SMETS V3.1",
+        "gbcs_version": "GBCS Version 2.1",
+        "image_hash": null
+      },
+      "00090600": {
+        "firmware_version": "00000501",
+        "smets_chts_version": "SMETS V3.1",
+        "gbcs_version": "GBCS Version 2.1",
+        "image_hash": null
+      },
+      "000B0100": {
+        "firmware_version": "00010000",
+        "smets_chts_version": "SMETS V3.1",
+        "gbcs_version": "GBCS Version 2.1",
+        "image_hash": null
+      },
+      "000C0600": {
+        "firmware_version": "00010100",
+        "smets_chts_version": "SMETS V3.1",
+        "gbcs_version": "GBCS Version 2.1",
+        "image_hash": null
+      },
+      "00030500": {
+        "firmware_version": "00021101",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      },
+      "00020002": {
+        "firmware_version": "00011100",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      },
+      "00090100": {
+        "firmware_version": "00020002",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": null
+      },
+      "000E0001": {
+        "firmware_version": "00020002",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": null
+      },
+      "00010100": {
+        "firmware_version": "00000007",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      },
+      "000C0001": {
+        "firmware_version": "00010302",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": null
+      },
+      "000F0001": {
+        "firmware_version": "00010000",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": null
+      },
+      "000D0001": {
+        "firmware_version": "00000300",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": null
+      },
+      "00110100": {
+        "firmware_version": "00010000",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": null
+      },
+      "00120100": {
+        "firmware_version": "00010500",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": null
+      },
+      "00110200": {
+        "firmware_version": "00010801",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": null
+      },
+      "00190001": {
+        "firmware_version": "00020000",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": null
+      }
+    },
+    "1090": {
+      "00070100": {
+        "firmware_version": "01000000",
+        "smets_chts_version": "SMETS V2.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": null
+      },
+      "00060200": {
+        "firmware_version": "30910900",
+        "smets_chts_version": "SMETS V2.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": null
+      },
+      "00080100": {
+        "firmware_version": "05020000",
+        "smets_chts_version": "SMETS V3.1",
+        "gbcs_version": "GBCS Version 2.1",
+        "image_hash": null
+      },
+      "00090100": {
+        "firmware_version": "05020000",
+        "smets_chts_version": "SMETS V3.1",
+        "gbcs_version": "GBCS Version 2.1",
+        "image_hash": null
+      },
+      "00030100": {
+        "firmware_version": "1031090F",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      },
+      "00070200": {
+        "firmware_version": "05080000",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": null
+      },
+      "000A0100": {
+        "firmware_version": "06020000",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": null
+      },
+      "00030200": {
+        "firmware_version": "20210900",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      }
+    },
+    "1128": {
+      "00030102": {
+        "firmware_version": "80070000",
+        "smets_chts_version": "SMETS V2.0 ",
+        "gbcs_version": "GBCS Version 1.0 ",
+        "image_hash": null
+      },
+      "00050101": {
+        "firmware_version": "02000000",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": null
+      },
+      "00060101": {
+        "firmware_version": "01000000",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": null
+      },
+      "00070101": {
+        "firmware_version": "01000000",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": null
+      }
+    },
+    "1031": {
+      "C6A20201": {
+        "firmware_version": "C6A20001",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      },
+      "C6A10101": {
+        "firmware_version": "C6A10002",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      },
+      "C6A30301": {
+        "firmware_version": "C6A30003",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      }
+    },
+    "1063": {
+      "00900101": {
+        "firmware_version": "04150100",
+        "smets_chts_version": "SMETS V1.2",
+        "gbcs_version": "GBCS Version 0.0",
+        "image_hash": null
+      }
+    }
+  },
+  "Twin Element Electricity Metering Equipment": {
+    "118F": {
+      "00000501": {
+        "firmware_version": "00070204",
+        "smets_chts_version": "SMETS V3.1",
+        "gbcs_version": "GBCS Version 2.1",
+        "image_hash": "04D5FA3AFDC51F2CF277B750EC2687C38A4417EC943B925C3B64923157EA4507"
+      },
+      "00000502": {
+        "firmware_version": "00070804",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "804E08CF0A9A07CA710397ED0FD4E18E6200D3604F6FF2A745DAA91BE79BD92A"
+      }
+    }
+  },
+  "Polyphase Electricity Metering Equipment": {
+    "118F": {
+      "00000601": {
+        "firmware_version": "00070600",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "A59A555A0B809F56A2C0D2C9743BB40F437E738109C06ECAB693AA2C3215669F"
+      },
+      "00000701": {
+        "firmware_version": "00070600",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "A59A555A0B809F56A2C0D2C9743BB40F437E738109C06ECAB693AA2C3215669F"
+      },
+      "00000801": {
+        "firmware_version": "00070600",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "A59A555A0B809F56A2C0D2C9743BB40F437E738109C06ECAB693AA2C3215669F"
+      },
+      "00000602": {
+        "firmware_version": "00070804",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "804E08CF0A9A07CA710397ED0FD4E18E6200D3604F6FF2A745DAA91BE79BD92A"
+      },
+      "00000702": {
+        "firmware_version": "00070804",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "804E08CF0A9A07CA710397ED0FD4E18E6200D3604F6FF2A745DAA91BE79BD92A"
+      },
+      "00000802": {
+        "firmware_version": "00070804",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "804E08CF0A9A07CA710397ED0FD4E18E6200D3604F6FF2A745DAA91BE79BD92A"
+      }
+    },
+    "106C": {
+      "30E5A100": {
+        "firmware_version": "0320B710",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "D3B4B31B58E5B3F0754DC123C3F03A26908EFEA030F3ACE1043B1C15076EB243"
+      }
+    },
+    "1125": {
+      "33325031": {
+        "firmware_version": "02301419",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "23767552744019D02B6F5B93DFA143E9B3763FA409ACB0639B46595EE301615F"
+      },
+      "33325033": {
+        "firmware_version": "03301519",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "3A68700D54E4DF54212DDA7B5220F85D04328392540BE051085368E55640556B"
+      },
+      "33325130": {
+        "firmware_version": "05301820",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": "F05927B2235A15F88584970FBAAC30FE14764132663BC1A26A155A9AD3A9B342"
+      }
+    }
+  },
+  "HAN Connected Auxiliary Load Control Switch": {
+    "119A": {
+      "0001022A": {
+        "firmware_version": "01000009",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": null
+      },
+      "0001022B": {
+        "firmware_version": "01000010",
+        "smets_chts_version": "SMETS V4.2",
+        "gbcs_version": "GBCS Version 3.2",
+        "image_hash": null
+      }
+    }
+  }
+}

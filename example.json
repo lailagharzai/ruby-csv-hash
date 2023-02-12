@@ -1,0 +1,36 @@
+{
+    "Communications Hub" : {
+        "106C": {
+            "433100AC": {
+                "firmware_version": "124074DA",
+                "smets_chts_version": "CHTS V1.0",
+                "gbcs_version": "GBCS Version 1.0",
+                "image_hash": "137ED5BC81A21F6D2187BC380381AEA7705BF65D3E4DAEA28EFD44113079D5E9"
+            }
+        }, 
+        "1086" : {
+            "54311F52": {
+                "firmware_version": "000A6900",
+                "smets_chts_version": "CHTS V1.0",
+                "gbcs_version": "GBCS Version 1.0",
+                "image_hash": ""
+            }, 
+            "54322052" : {
+                "firmware_version": "000A6900",
+                "smets_chts_version": "CHTS V1.0",
+                "gbcs_version": "GBCS Version 1.0",
+                "image_hash": ""
+                }
+        }
+    },
+    "Single Element Electricity Metering Equipment" : {
+        "1063" : {
+            "00030201" : {
+                "firmware_version": "24010701",
+                "smets_chts_version": "SMETS V2.0",
+                "gbcs_version": "GBCS Version 1.0",
+                "image_hash": "7124FA147A6850B3205D1E4F9CA6B3E820194A7F3B0EB0373BF47EA7F8877C21"
+            }
+        }
+    }
+}

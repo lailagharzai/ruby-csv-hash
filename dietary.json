@@ -1,0 +1,29 @@
+// diatary 
+// department
+// name, age
+
+{
+    "HR" : {
+        "vegan" : [
+            {
+                "name": "J", 
+                "age": "18",
+                "spoons": false
+            }
+        ]
+    },
+    "Design" : {
+        "kosher" : [
+            {
+                "name": "K",
+                "age": "18",
+                "spoons": true
+            },
+            {
+                "name": "Bill",
+                "age": "12",
+                "spoons": true
+            }
+        ]
+    }
+}
