@@ -1,19 +1,16 @@
 require "csv"
 require "json"
 
-# aggregated central product list
+# Initialise an empty hash to store the data.
 cpl = {}
 
-# According to https://ruby-doc.org/stdlib-2.6.1/libdoc/csv/rdoc/CSV.html#method-c-foreach,
-# `CSV.foreach` will process file row by row,
-# compared to `CSV.each` which reads entire file into memory
-# This solution is optimal as it can process much larger files
+# Use CSV.foreach to process the CSV file row by row
+# while skipping any rows that are marked as "Removed" in column C
+# This solution is optimal as it can process much larger files than if CSV.each was used
 CSV.foreach("cpl.csv", headers: true) { |row|
-  # skip rows that are marked "Removed" in column C
   next if row[2] == "Removed"
 
-  # process entire row, check if nested keys already exist,
-  # so as to not override existing data
+  # Check if nested keys already exist, to avoid overriding existing data
   if cpl[row[3]].nil?
     cpl[row[3]] = {}
   end
@@ -32,5 +29,5 @@ CSV.foreach("cpl.csv", headers: true) { |row|
   end
 }
 
-# print out nested hash as JSON
+# Convert the nested hash to JSON and print it out in a pretty format
 puts JSON.pretty_generate cpl
