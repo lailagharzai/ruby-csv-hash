@@ -14,4 +14,4 @@ For easier viewing and further processing, there are two recommended options:
 
 ## Sources
 
-The solution is based on this [RubyGuides article](https://www.rubyguides.com/2018/10/parse-csv-ruby/) and the [official Ruby documentation](https://ruby-doc.org/stdlib-2.6.1/libdoc/csv/rdoc/CSV.html#method-c-foreach) for the CSV library. These resources were used to develop and refine the script.
+The solution is based on this [RubyGuides article](https://www.rubyguides.com/2018/10/parse-csv-ruby/) and the [official Ruby documentation](https://ruby-doc.org/stdlib-2.6.1/libdoc/csv/rdoc/CSV.html#method-c-foreach) for the CSV library. 
